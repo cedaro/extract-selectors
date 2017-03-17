@@ -1,0 +1,24 @@
+{
+  "name": "extract-selectors",
+  "version": "1.0.0",
+  "description": "Extract and group selectors from a style sheet by property or value.",
+  "license": "MIT",
+  "homepage": "https://github.com/cedaro/extract-selectors",
+  "repository": "cedaro/extract-selectors",
+  "author": {
+    "name": "Brady Vercher",
+    "email": "brady@blazersix.com",
+    "url": "https://www.cedaro.com/"
+  },
+  "bin": {
+    "extract-selectors": "./bin/extract-selectors"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "dependencies": {
+    "minimist": "^1.2.0",
+	"postcss": "^5.0.3"
+  }
+}

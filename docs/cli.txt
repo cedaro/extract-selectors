@@ -1,0 +1,7 @@
+Usage: extract-selectors <input.css> [options]
+
+Options:
+  -v, --version           Display the current version.
+  -h, --help              Display help and usage details.
+  --prop                  CSS property.
+  --value                 CSS property value.
